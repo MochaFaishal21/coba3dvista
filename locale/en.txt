@@ -1,0 +1,23 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_D830C540_D7B2_B6F7_41BF_8AB71BD45910.label = photo6332539896673185052
+panorama_D87B665D_D7B1_9289_41DC_4CF22632E43E.label = photo6332539896673185051
+panorama_DD394464_D792_96BF_41E4_14C455AEEC72.label = DEPAN KOS
+panorama_DE205754_D792_B29F_41E3_4B174825D0D5.label = JALAN KOS
+video_C6EBEDD9_D7B2_7189_41D1_E885DA54BF97.label = GOPR2039
